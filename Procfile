@@ -1,1 +1,2 @@
-start-api: npm index.js
+install-dependencies: npm install
+start-api: npm start
