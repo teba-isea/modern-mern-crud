@@ -1,8 +1,8 @@
-# modern-mern-crud
+# modern-mern-crud (backend)
 
-A modern project to-do App created with the MERN stack and programmed completly on ES2020 
+A modern project to-do App created with the MERN stack and programmed completly on ES2020 using MongoDB, ExpressJs and React
 
-## commands
+## Commands
 
 `npm start`
 to start the server
